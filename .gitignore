@@ -182,6 +182,8 @@ ENV/
 env.bak/
 venv.bak/
 .profile_eval
+.image_eval_venv
+static
 
 # Data
 screen_shots/
